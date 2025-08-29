@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638918365763854340
-    m_Hash: 4241709491
+      ticks: 638920288081231178
+    m_Hash: 4131503280
   m_LockFileStatus:
     m_FilePath: C:/Users/je425824/git/PS_CDMathematics01/PS_CDG_Mathematics/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638918365763995764
-    m_Hash: 239079198
+      ticks: 638920288081231178
+    m_Hash: 558149749
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
