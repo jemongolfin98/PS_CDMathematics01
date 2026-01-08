@@ -2403,12 +2403,6 @@ public class GameControllerScript : MonoBehaviour
     }
     public void QB03Completed()
     {
-        questionB03Answered = true;
-        questionB03Screen.SetActive(false);
-        QBCompleted();
-    }
-    public void QB03Completed()
-    {
         questionB03Screen.SetActive(false);
 
         switch (qB03Option)
